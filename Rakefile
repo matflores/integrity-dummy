@@ -5,11 +5,13 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "integrity-dummy"
-    gem.summary = %Q{TODO}
+    gem.summary = "Dummy notifier for the Integrity continuous integration server"
+    gem.description = "Serves as a basis for creating more complex Integrity notifiers"
     gem.email = "mflores@atlanware.com"
-    gem.homepage = "http://github.com/matflores/integrity-dummy"
+    gem.homepage = "http://integrityapp.com"
     gem.authors = ["Matías Flores"]
-    # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
+    gem.add_dependency "integrity"
+    gem.rubyforge_project = "integrity"
   end
 
 rescue LoadError
