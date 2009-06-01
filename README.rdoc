@@ -1,7 +1,0 @@
-= integrity-dummy
-
-Description goes here.
-
-== Copyright
-
-Copyright (c) 2009 matflores. See LICENSE for details.
