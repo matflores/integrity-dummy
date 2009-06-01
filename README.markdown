@@ -6,7 +6,7 @@ Integrity
 Integrity Dummy Notifier
 ========================
 
-This is a dummy Integrity notifier that does not do anything but register itself with the Integrity server. Its only purpose is being used as a starting point for creating more complex and useful notifiers.
+This is a dummy Integrity notifier that does not do anything but registering itself with the Integrity server. Its only purpose is being used as a starting point for creating more complex and useful notifiers.
 
 Setup Instructions
 ==================
@@ -24,7 +24,7 @@ License
 
 (The MIT License)
 
-Copyright (c) 2008, 2009 [Matías Flores][matflores]
+Copyright (c) 2009 [Matías Flores][matflores]
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
